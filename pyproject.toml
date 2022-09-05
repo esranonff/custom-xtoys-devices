@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "custom-xtoys-devices"
+version = "0.1.0"
+description = ""
+authors = ["Esranon <112858542+esranon@users.noreply.github.com>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+platformio = "^6.1.4"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
