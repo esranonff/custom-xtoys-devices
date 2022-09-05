@@ -1,6 +1,6 @@
 # Motor Controller
 
-| Device Details |
+| Device Details ||
 |----------------|------------|
 | Device Type:   | 2 channel vibrator |
 | Tested Hardware: | [MCU ESP8266 Development Board with Motor Driver](https://www.amazon.co.uk/gp/product/B07ZCMZW9Q) |
