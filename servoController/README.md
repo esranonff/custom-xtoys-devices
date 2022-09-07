@@ -13,7 +13,7 @@ Once the initialisation is complete, you can attach whatever devices/body-parts 
 | Device Details ||
 |----------------|------------|
 | Device Type:   | Generic GPIO Server |
-| Tested Hardware: | [WEMOS D1 Mini](https://www.wemos.cc/en/latest/d1/d1_mini.html) and standard metal gear servo |
+| Tested Hardware: | [WEMOS D1 Mini](https://www.wemos.cc/en/latest/d1/d1_mini.html) and standard metal gear servo connected to port **D1** |
 | MQTT Publish Topic: | Configurable in code |
 | MQTT Message Format: | {"angle" : &lt;&lt;INT&gt;&gt;, "step_delay": &lt;&lt;INT&gt;&gt; } |
 
